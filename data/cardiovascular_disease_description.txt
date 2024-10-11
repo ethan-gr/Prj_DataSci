@@ -9,7 +9,7 @@ ap_hi: systolic blood pressure
 ap_lo: diastolic blood pressure
 cholesterol: cholesterol (1 = normal, 2 = above normal, 3 = well above normal)
 gluc: glucose level (1 = normal, 2 = above normal, 3 = well above normal)
-smoke: whether patient smokes or not (0 = no, 1 = yes))
+smoke: whether patient smokes or not (0 = no, 1 = yes)
 alco: whether patient drinks alcohol or not (0 = no, 1 = yes)
 active: binary feature (0 = passive life, 1 = active life)
 cardio: Target variable, whether patient has cardiovascular disease or not (0 = no, 1 = yes)
